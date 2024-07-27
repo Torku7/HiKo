@@ -1,5 +1,5 @@
-import Header from "../common/Header";
-import Button from "../common/Button";
+import Header from "../common/header";
+import Button from "../common/button";
 import "../css/first.css";
 
 export default function Frist() {

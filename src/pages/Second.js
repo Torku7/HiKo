@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Header from "../common/Header";
+import Header from "../common/header";
 import "../css/second.css"; // second.css 파일을 가져옵니다.
 
 import Timer from "../common/timer";

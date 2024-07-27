@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/end.css";
+import "../css/End.css";
 import { Link, useLocation } from "react-router-dom";
 
 export default function End() {
